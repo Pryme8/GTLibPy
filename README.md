@@ -112,5 +112,3 @@ but private methods are not documented as it was not necessary to do so.
 **VERSION INFO :**<br/>
 GTLibPy Version : V 1.0<br/>  
 Dated : 31/05/2019.<br/>
-
-Written and maintained by HaseeB Mir (haseebmir.hm@gmail.com)
