@@ -112,3 +112,17 @@ but private methods are not documented as it was not necessary to do so.
 **VERSION INFO :**<br/>
 GTLibPy Version : V 1.0<br/>  
 Dated : 31/05/2019.<br/>
+
+GTLibPy Version : V 1.1<br/>  
+
+**Changelogs**
+* Added support for **64bit** games.<br/>
+* Added folder for both 32 and 64 bit games in **GTLibcs** <br/>
+
+**Using for 32 and 64 bit games.**
+**GTLibcs** containts two file <br/>
+* **GTLibc_x86.so** for 32 bit. <br/>
+* **GTLibc_x64.so** for 64 bit. <br/>
+Just copy the file you need and rename it to **GTLibc.so** and place it in root directory and replace old file with your new file and you are done.</br>
+
+Dated : 28/04/2020.<br/>
