@@ -50,7 +50,8 @@ Written by Ha5eeB Mir (haseebmir.hm@gmail.com)
 
 #Import ctypes module and load GTLibc library.
 from ctypes import *
-gtlib = CDLL('GTLibc.so')
+import os
+gtlib = CDLL(os.path.abspath('GTLibc.so'))
 
 #Error messages constants.
 INVALID_INPUT__ERR = "Input type is invalid"
