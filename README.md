@@ -125,4 +125,12 @@ GTLibPy Version : V 1.1<br/>
 * **GTLibc_x64.so** for 64 bit. <br/>
 Just copy the file you need and rename it to **GTLibc.so** and place it in root directory and replace old file with your new file and you are done.</br>
 
-Dated : 28/04/2020.<br/>
+# FAQ </br>
+**_Q_** : I am getting this error **OSError: [WinError 193] %1 is not a valid Win32 application** ?</br>
+**_A_** : The error states that you are using **32-bit application** but GTLIbPy is **64bit** so use 64bit version of Python.</br>
+
+**_Q_** : When i try to import it to python it says there is no module named **GT_LibPy** ?</br>
+**_A_** : Download GTLibPy from Github and place it in your source root directory because pip is not updated.</br>
+
+
+Dated : 20/05/2020.<br/>
