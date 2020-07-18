@@ -14,7 +14,7 @@ So this has all the features which **GTLibc** had _FindGame,ReadAddress,WriteAdd
 and to provide a layer on top of **WIN-32 API** _cumbersome_ methods and to make reading/writing ,finding Game process easier and convenient.
 
 ## **_Your support is needed to keep this project alive, Feel free to donate._**
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/haseebmir91)
+[![paypal](https://www.payumoney.com/media/images/payby_payumoney/new_buttons/21.png)](https://www.payumoney.com/paybypayumoney/#/C90A30D6E23A691F68F707F3D1D17BBD)
 
 # Main Components :
 
